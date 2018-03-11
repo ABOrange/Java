@@ -39,6 +39,6 @@ class TimeCalculator {
 				min_out = min2 - min1;
 			}
 		}
-	System.out.print("The duration between these two times is " + hour_out + " hours " + min_out + " minutes.");
+	System.out.print("The duration between these two times is " + hour_out + " hours " + min_out + " minutes.ok");
 	}
 }
